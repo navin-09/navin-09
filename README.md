@@ -43,10 +43,10 @@ Backend engineer with **6+ years** of experience designing and building distribu
 
 <br>
 
-## 📖 Currently Reading
+## 📚 Bookshelf
 
-| Book | Author | Why |
-|------|--------|-----|
+| Book | Author | Key Takeaway |
+|------|--------|-------------|
 | **Designing Data-Intensive Applications** | Martin Kleppmann | Foundations of distributed systems |
 | **System Design Interview** | Alex Xu | Cracking the SDE-3 interview |
 | **Grokking the Low-Level Design** | (course) | SOLID, design patterns, clean architecture |
