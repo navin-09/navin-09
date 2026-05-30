@@ -44,8 +44,12 @@ Backend engineer with **6+ years** of experience designing and building distribu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navin-09&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navin-09&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navin-09&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navin-09&theme=github_dark" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navin-09&theme=github_dark" />
 </div>
 
 ---
