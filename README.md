@@ -39,20 +39,7 @@ Backend engineer with **6+ years** of experience designing and building distribu
 | [**BookQuest Skill**](https://github.com/navin-09/bookquest-skill) | Gamified book learning companion for Hermes Agent | TypeScript, Agent Framework |
 | [**Docker + Redis + Postgres**](https://github.com/navin-09/docker-redis-postgres) | Production-grade Docker compose setup | Python, Docker, Redis, PostgreSQL |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navin-09&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navin-09&theme=github_dark" />
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navin-09&theme=github_dark" />
-</div>
-
----
+<br>
 
 ## 🧠 What I'm Learning
 
