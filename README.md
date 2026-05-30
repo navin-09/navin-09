@@ -34,6 +34,8 @@ Backend engineer with **6+ years** of experience designing and building distribu
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**Mini JS Compiler**](https://github.com/navin-09/mini-js-compiler) | Lisp-to-JavaScript compiler — tokenizer, parser, AST transformer | JavaScript |
+| [**Scaffold CLI**](https://github.com/navin-09/scaffold-cli) | Scaffolding CLI with config validation and schema support | JavaScript |
 | [**Gov Jobs Portal**](https://github.com/navin-09/gov-jobs-portal) | Government job notifications — aggregate, filter, alert | Python, FastAPI, Celery, PostgreSQL |
 | [**URL Shortener**](https://github.com/navin-09/url-shortner-service) | Scalable URL shortening service with analytics | Python, FastAPI, Redis, PostgreSQL |
 | [**BookQuest Skill**](https://github.com/navin-09/bookquest-skill) | Gamified book learning companion for Hermes Agent | TypeScript, Agent Framework |
