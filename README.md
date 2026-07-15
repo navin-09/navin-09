@@ -41,6 +41,7 @@ Backend engineer with **6+ years** of experience designing and building distribu
 | [**URL Shortener**](https://github.com/navin-09/url-shortner-service) | Scalable URL shortening service with analytics | Python, FastAPI, Redis, PostgreSQL |
 | [**BookQuest Skill**](https://github.com/navin-09/bookquest-skill) | Gamified book learning companion for Hermes Agent | TypeScript, Agent Framework |
 | [**Docker + Redis + Postgres**](https://github.com/navin-09/docker-redis-postgres) | Production-grade Docker compose setup | Python, Docker, Redis, PostgreSQL |
+| [**Design Patterns**](https://github.com/navin-09/design-patterns) | Hands-on GoF patterns (creational, structural, behavioral) + enterprise & resilience patterns — practice implementations in Python | Python, OOP, Design Patterns |
 
 <br>
 
@@ -58,7 +59,7 @@ Backend engineer with **6+ years** of experience designing and building distribu
 
 - **System Design:** Building mental models for large-scale architectures
 - **Distributed Systems:** DDIA reading + hands-on implementations
-- **Low-Level Design:** Design patterns, SOLID, clean architecture
+- **Low-Level Design:** Design patterns, SOLID, clean architecture — see my [design-patterns](https://github.com/navin-09/design-patterns) practice repo
 - **Rust:** Exploring systems programming
 
 ---
