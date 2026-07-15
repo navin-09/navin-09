@@ -34,6 +34,7 @@ Backend engineer with **6+ years** of experience designing and building distribu
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**HTTP Server from Scratch**](https://github.com/navin-09/http-server) | HTTP/1.1 server built with raw Python sockets — routing, gzip, static files; concurrency benchmark (single vs multi-threaded) vs FastAPI/ASGI under load | Python, Sockets, FastAPI |
 | [**Mini JS Compiler**](https://github.com/navin-09/mini-js-compiler) | Lisp-to-JavaScript compiler — tokenizer, parser, AST transformer | JavaScript |
 | [**Scaffold CLI**](https://github.com/navin-09/scaffold-cli) | Scaffolding CLI with config validation and schema support | JavaScript |
 | [**Gov Jobs Portal**](https://github.com/navin-09/gov-jobs-portal) | Government job notifications — aggregate, filter, alert | Python, FastAPI, Celery, PostgreSQL |
